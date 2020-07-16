@@ -1,6 +1,6 @@
 # Visual Studio Code
-.vscode
-Properties
+.vscode/
+Properties/
 
 # Build results
 [Dd]ebug/
