@@ -13,7 +13,7 @@
 - Swashbuckle.AspNetCore.
 
 **Usage:**
-- Install the .NET Core SDK:
+- Install the [.NET Core SDK](https://dotnet.microsoft.com/download):
 > https://dotnet.microsoft.com/download
 - Add packages:
 ```
@@ -33,3 +33,13 @@ dotnet tool install --global dotnet-ef
 dotnet ef migrations add initial
 dotnet ef database update
 ```
+- Build:
+```
+dotnet build
+```
+- Run:
+```
+dotnet run
+```
+- Access the link:
+> http://localhost:5000/swagger/index.html
