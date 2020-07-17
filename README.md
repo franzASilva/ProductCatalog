@@ -26,7 +26,7 @@ dotnet add package Swashbuckle.AspNetCore
 ```
 dotnet tool install --global dotnet-ef
 ```
-- Set database connection string: 
+- Set database connection string (SQL Server): 
 > appsettings: connectionString.
 - Execute migrations and database update:
 ```
