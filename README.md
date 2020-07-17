@@ -2,6 +2,7 @@
 
 **API RESTful .NET Core 3.1 and EF Core 3.1 (code first) with:**
 - Gzip compression;
+- ResponseCache;
 - X-Xss-Protection;
 - Cross-origin resource sharing (CORS);
 - Swagger;
